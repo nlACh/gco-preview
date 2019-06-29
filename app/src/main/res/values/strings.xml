@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GCODE</string>
+    <string name="open_nav_bar">Open</string>
+    <string name="close_nav_bar">Close</string>
 </resources>

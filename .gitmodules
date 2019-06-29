@@ -1,0 +1,4 @@
+[submodule "app/src/main/assets/gco-webview"]
+	path = app/src/main/assets/gco-webview
+	url = https://github.com/nlACh/gco-webview
+	branch = master
